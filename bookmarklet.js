@@ -544,11 +544,11 @@
                      .card-content {
                      padding: 20px;
                      border-radius: 0 0 2px 2px;
-                     font-size: 20px;
+                     font-size: 15px;
                      }
                      .card-title {
                      line-height: 48px;
-                     font-size: 16px;
+                     font-size: 15px;
                      font-weight: 300;
                      }
                      .key {
